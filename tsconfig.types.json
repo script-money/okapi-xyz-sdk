@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "target":"ESNext",
+    "declaration": true,
+    "moduleResolution": "Node",
+    "emitDeclarationOnly": true,
+    "outDir": "./types",
+    "noEmit": false,
+    "strict": true
+  },
+  "include": [
+    "index.ts",
+  ],
+  "exclude": [
+    "node_modules",
+    "test",
+  ]
+}
