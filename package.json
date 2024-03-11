@@ -1,6 +1,6 @@
 {
   "name": "okapi-xyz-sdk",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A node module for interacting with the okapi.xyz.",
   "main": "dist/index.js",
   "module": "index.ts",
@@ -18,7 +18,7 @@
   "homepage": "https://github.com/script-money/okapi-xyz-sdk#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/script-money/okapi-xyz-sdk.git"
+    "url": "https://github.com/script-money/okapi-xyz-sdk"
   },
   "keywords": [
     "web3"
